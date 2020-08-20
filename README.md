@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hello! I like to make open source games and animation tools!
+
+
+![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true)
 
 <!--
+
+Made with: https://github.com/anuraghazra/github-readme-stats
+
 **jeremyckahn/jeremyckahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
