@@ -1,5 +1,3 @@
-### Hello! I like to make open source games and animation tools!
-
 ![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true)
 
 My three guiding principles are:
