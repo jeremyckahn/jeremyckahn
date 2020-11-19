@@ -1,10 +1,12 @@
 ![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true)
 
-My three guiding principles are:
-
+<details>
+  <summary>My guiding principles</summary>
+  
   - Open is good.
   - Dependencies are bad.
   - Help others help themselves! 🙂
+</details>
 
 ## Please help support my work!
 
