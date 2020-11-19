@@ -6,6 +6,22 @@ My three guiding principles are:
   - Dependencies are bad.
   - Help others help themselves! 🙂
 
+## Please help support my work!
+
+If you've enjoyed or gotten use out of my work, please consider supporting me so I can continue to make great open source software! Any contributions are greatly appreciated. **Thank you in advance!**
+
+<details>
+  <summary>Support via Venmo</summary>
+  
+  ![Support via Venmo @jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-venmo.png)
+</details>
+
+<details>
+  <summary>Support via Cash App</summary>
+  
+  ![Support via Cash App $jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-cash.png)
+</details>
+
 <!--
 
 Made with: https://github.com/anuraghazra/github-readme-stats
