@@ -13,6 +13,12 @@
 If you've enjoyed or gotten use out of my work, please consider supporting me so I can continue to make great open source software! Any contributions are greatly appreciated. **Thank you in advance!**
 
 <details>
+  <summary>Support via PayPal</summary>
+  
+  [![Support via PayPal @jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-paypal.png)](https://paypal.me/jeremyckahn)
+</details>
+
+<details>
   <summary>Support via Venmo</summary>
   
   [![Support via Venmo @jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-venmo.png)](https://venmo.com/jeremyckahn)
