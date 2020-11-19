@@ -13,13 +13,13 @@ If you've enjoyed or gotten use out of my work, please consider supporting me so
 <details>
   <summary>Support via Venmo</summary>
   
-  ![Support via Venmo @jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-venmo.png)
+  [![Support via Venmo @jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-venmo.png)](https://venmo.com/jeremyckahn)
 </details>
 
 <details>
   <summary>Support via Cash App</summary>
   
-  ![Support via Cash App $jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-cash.png)
+  [![Support via Cash App $jeremyckahn](https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-cash.png)](https://cash.app/$jeremyckahn)
 </details>
 
 <!--
