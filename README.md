@@ -1,5 +1,7 @@
 ![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true)
 
+[![Twitch](https://img.shields.io/twitch/status/jeremyckahn?color=blueviolet)](https://www.twitch.tv/jeremyckahn)
+
 <details>
   <summary>My guiding principles</summary>
   
