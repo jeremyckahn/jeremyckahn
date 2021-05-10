@@ -1,8 +1,8 @@
-# [Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vQkiFV2vtO0u_IJBQzqU38DnWPWDu7BGHX7d-bQEMXNgT6RilZfAX-Ufz8fcmBhaCJpvAwv8S24yr68/pub)
-
 ![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true)
 
 [![Twitch](https://img.shields.io/twitch/status/jeremyckahn?color=blueviolet)](https://www.twitch.tv/jeremyckahn)
+
+[Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vQkiFV2vtO0u_IJBQzqU38DnWPWDu7BGHX7d-bQEMXNgT6RilZfAX-Ufz8fcmBhaCJpvAwv8S24yr68/pub)
 
 <details>
   <summary>My guiding principles</summary>
