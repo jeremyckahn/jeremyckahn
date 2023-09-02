@@ -1,8 +1,8 @@
 ![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true&theme=tokyonight)
 
-[![Twitch](https://img.shields.io/twitch/status/jeremyckahn?color=blueviolet)](https://www.twitch.tv/jeremyckahn)
+##  📄 [Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vR5_4TPjFaVq7WMb87M58HacLnuY2tBjVrDiC8u0k2dAz_DjN24bT5Eg3TOvHfUFnX6YlqucNpkg8zc/pub) 👈️
 
-<!--[Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vQkiFV2vtO0u_IJBQzqU38DnWPWDu7BGHX7d-bQEMXNgT6RilZfAX-Ufz8fcmBhaCJpvAwv8S24yr68/pub)-->
+<!--[![Twitch](https://img.shields.io/twitch/status/jeremyckahn?color=blueviolet)](https://www.twitch.tv/jeremyckahn)-->
 
 <details>
   <summary>My guiding principles</summary>
