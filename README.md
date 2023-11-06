@@ -14,13 +14,15 @@
 
 ## Please help support my work!
 
-If you've enjoyed or gotten use out of my work, please consider supporting me so I can continue to make great open source software! Any contributions are greatly appreciated. **Thank you in advance!**
+If you've enjoyed or gotten use out of my work, **[please sponsor me](https://github.com/sponsors/jeremyckahn/)** so I can continue to make great open source software! Any contributions are greatly appreciated. **Thank you in advance!**
 
+<!--
 <details>
   <summary>Support via PayPal Tip Jar</summary>
   
   <a href="https://paypal.me/jeremyckahn"><img width="400" alt="Support via PayPal Tip Jar @jeremyckahn" src="https://raw.githubusercontent.com/jeremyckahn/jeremyckahn/master/support-via-paypal.png" /></a>
 </details>
+-->
 
 <!--
 
