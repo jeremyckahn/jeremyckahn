@@ -1,10 +1,6 @@
 ![jeremyckahn's github stats](https://github-readme-stats.vercel.app/api?username=jeremyckahn&show_icons=true&theme=tokyonight)
 
-# ‼️ I'm looking for a new job! 👀
-
-I'm a capable front end engineer with over 14 years of experience. My strength is in React development, but I'm always down for a new challenge. If you like the projects down below 👇️, send me an email at jeremyckahn@gmail.com!
-
-##  📄 [Check out my resume here!](https://docs.google.com/document/d/e/2PACX-1vR5_4TPjFaVq7WMb87M58HacLnuY2tBjVrDiC8u0k2dAz_DjN24bT5Eg3TOvHfUFnX6YlqucNpkg8zc/pub) 👈️
+##  📄 [Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vR5_4TPjFaVq7WMb87M58HacLnuY2tBjVrDiC8u0k2dAz_DjN24bT5Eg3TOvHfUFnX6YlqucNpkg8zc/pub) 👈️
 
 <!--[![Twitch](https://img.shields.io/twitch/status/jeremyckahn?color=blueviolet)](https://www.twitch.tv/jeremyckahn)-->
 
