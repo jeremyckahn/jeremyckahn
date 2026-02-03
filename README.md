@@ -6,7 +6,7 @@
  
 > **Score: 9.5/10** - _Would hire this developer immediately._
 
-##  📄 [Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vR5_4TPjFaVq7WMb87M58HacLnuY2tBjVrDiC8u0k2dAz_DjN24bT5Eg3TOvHfUFnX6YlqucNpkg8zc/pub) 👈️
+<!-- ##  📄 [Check out my resume!](https://docs.google.com/document/d/e/2PACX-1vR5_4TPjFaVq7WMb87M58HacLnuY2tBjVrDiC8u0k2dAz_DjN24bT5Eg3TOvHfUFnX6YlqucNpkg8zc/pub) 👈️ -->
 
 <!--[![Twitch](https://img.shields.io/twitch/status/jeremyckahn?color=blueviolet)](https://www.twitch.tv/jeremyckahn)-->
 
